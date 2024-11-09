@@ -17,6 +17,6 @@ Desarrollo de Aplicación Móvil con Conexión en Tiempo Real utilizando Firebas
 Importante:
   1. Conexión directa con la base de datos en tiempo real utilizando Firebase Realtime Database o Firestore.
   2. Dos campos de input:
-    - Nombre del usuario o jugador (texto).
-    - Puntaje del jugador o score (número).
+    2.1. Nombre del usuario o jugador (texto).
+    2.2. Puntaje del jugador o score (número).
   3. Botón enviar para mandar los datos a la base de datos.
